@@ -437,6 +437,7 @@ Of course, this list is not exhaustive of what you can do to secure a team serve
 # Thanks to Contributors
 A BIG THANK YOU to all the following people (listed alphabetically) who contributed tools, tips, or links to include in the wiki, and another THANK YOU to anyone who wrote a tool or post referenced in this wiki!
 
+*[@coolx28 - Liban Mohamud](https://twitter.com/coolx28)
 * [@andrewchiles - Andrew Chiles](https://twitter.com/andrewchiles)
 * [@armitagehacker - Raphael Mudge](https://twitter.com/armitagehacker)
 * [@bspence7337](https://twitter.com/bspence7337)
@@ -449,4 +450,4 @@ A BIG THANK YOU to all the following people (listed alphabetically) who contribu
 * [@tifkin_ - Lee Christensen](https://twitter.com/tifkin_)
 * [@vysecurity - Vincent Yiu](https://twitter.com/vysecurity)
 * [@xorrior - Chris Ross](https://twitter.com/xorrior)
-*[@coolx28 - Liban Mohamud](https://twitter.com/coolx28)
+
